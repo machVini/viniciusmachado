@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-vinicius_machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-machado07/)](https://www.linkedin.com/in/vinicius-machado07/)
 [![Gmail Badge](https://img.shields.io/badge/-viniciusmach07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmach07@gmail.com)](mailto:viniciusmach07@gmail.com)
 
-My name is Vinícius, I am an Android Software Engineer from Campinas, Brazil. But I'm currently living in Dublin, Ireland. 🇮🇪
+My name is Vinícius, I am an Android Software Engineer from Campinas, Brazil.
 
 I like to work with Kotlin, MVVM, Hilt and Jetpack Compose, but I'm also comfortable with Java, MVP, MVI, VIP, Koin, Dagger2, Dagger-Hilt, and more. </br>
 
