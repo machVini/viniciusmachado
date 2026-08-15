@@ -5,7 +5,7 @@
 
 My name is Vinícius, I am an Android Software Engineer from Campinas, Brazil.
 
-I like to work with Kotlin, MVVM, Hilt and Jetpack Compose, but I'm also comfortable with Java, MVP, MVI, VIP, Koin, Dagger2, Dagger-Hilt, and more. </br>
+I like to work with Kotlin, MVVM, Hilt and Jetpack Compose (including KMP and Compose Multiplatform), but I'm also comfortable with Java, MVP, MVI, VIP, Koin, Dagger2, Dagger-Hilt, and more. </br>
 
 ### 💻 My journey
 - Android Software Engineer at [**PicPay**](https://picpay.com/) `Jun.2025-Present`
