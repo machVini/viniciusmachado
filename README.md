@@ -1,4 +1,4 @@
-### Vinícius Silva Machado
+### Vinícius Machado
 
 [![Linkedin Badge](https://img.shields.io/badge/-vinicius_machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-machado07/)](https://www.linkedin.com/in/vinicius-machado07/)
 [![Gmail Badge](https://img.shields.io/badge/-viniciusmach07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmach07@gmail.com)](mailto:viniciusmach07@gmail.com)
