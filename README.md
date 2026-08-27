@@ -3,9 +3,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-vinicius_machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-machado07/)](https://www.linkedin.com/in/vinicius-machado07/)
 [![Gmail Badge](https://img.shields.io/badge/-viniciusmach07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmach07@gmail.com)](mailto:viniciusmach07@gmail.com)
 
-My name is Vinícius, I am an Android Software Engineer from Campinas, Brazil.
+Android Software Engineer based in Campinas, Brazil, with 7+ years building
+mobile products at scale — from fintech to food delivery to live events.
+I care about apps that stay fast, testable and pleasant to work on as the
+codebase (and the team) grows.
 
-I like to work with Kotlin, MVVM, Hilt and Jetpack Compose (including KMP and Compose Multiplatform), but I'm also comfortable with Java, MVP, MVI, VIP, Koin, Dagger2, Dagger-Hilt, and more. </br>
+**Currently:** shipping Android at [PicPay](https://picpay.com/) and finishing a BSc in Computer Science at [Unicamp](http://www.ic.unicamp.br/).
+
+### 🛠 Stack
+- **Languages:** Kotlin, Java
+- **UI:** Jetpack Compose, Compose Multiplatform, XML Views
+- **Architecture:** MVVM, MVI, MVP, VIP, Clean Architecture, KMP
+- **DI:** Hilt, Dagger 2, Koin
 
 ### 💻 My journey
 - Android Software Engineer at [**PicPay**](https://picpay.com/) `Jun.2025-Present`
